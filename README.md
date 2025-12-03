@@ -2,7 +2,7 @@
 
 ![Demo App](/client/public/screenshot-for-readme.png)
 
-About This Course:
+About This app:
 
 - 🔐 Authentication System with JWT
 - 🛡️ Route Protection
